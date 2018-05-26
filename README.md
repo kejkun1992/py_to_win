@@ -15,5 +15,5 @@ Aplikacja na windows(32-bit), ktora uruchamia skrypty napisane w pythonie 3, bez
 Wystarczy skopiowac swoj kod do folderu PyToWin. Glowny plik musi nosic nazwe main.py. W folderze
 znajduje sie aplikacja PyToWin, klikasz i dziala.
 
-Zawiera obsluge wiekszosci modulow biblioteki standardowj, w tym tkinter i turtle. 
+Zawiera obsluge wiekszosci modulow biblioteki standardowej, w tym tkinter i turtle. 
 
